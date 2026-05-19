@@ -167,7 +167,3 @@ directorio_lab/
     └── ventas/
         └── clientes.txt
 ```
-
-## Nota de seguridad
-
-Los scripts solo crean y eliminan archivos dentro del laboratorio local. No requieren permisos de root ni modifican archivos del sistema.
